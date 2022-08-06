@@ -1,0 +1,9 @@
+LiLlldUUCl‘ldLDUUK-FlU—llLCdlllUpCllLV LlLlldUED dpL LlldeLL LC>bCldLL L
+lichaodeMacBook—Pro—Z:learnopencv lichao$ pip3 install pytesserac
+Requirement already satisfied: pytesseract in /usr/local/lib/pyth
+Requirement already satisfied: Pillow in /usr/local/lib/python3.9
+t) (8.1.0)
+
+lichaodeMacBook—Pro—Z:learnopencv lichao$ open chars.png
+lichaodeMacBook—Pro—Z:learnopencv lichao$ tessel
+
